@@ -65,7 +65,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -79,7 +79,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("%python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -93,7 +93,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -107,7 +107,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -121,7 +121,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -135,7 +135,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -149,7 +149,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
@@ -164,7 +164,7 @@ def check_if_win(userdict1):
         if replay == 'yes' or 'y' or 'Yes' or 'Y':
             print('Restarting the game!!')
             time.sleep(5)
-            os.system("%USERPROFILE%\Downloads\game.bat")
+            os.system("python %USERPROFILE%\Downloads\TicTacToe.py")
         else:
             if replay == 'no' or 'No' or 'n' or 'N':
                 print('Exiting the game!')
